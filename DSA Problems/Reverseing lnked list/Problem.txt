@@ -1,0 +1,10 @@
+Question 1: Write a program to reverse a linked list with a pointer given to the head node as given below:
+Input: Head of the following linked list: 
+
+1->2->3->4->null
+
+
+
+Output: Linked list should be changed to:
+
+4->3->2->1->null

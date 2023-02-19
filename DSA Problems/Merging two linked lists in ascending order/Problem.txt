@@ -1,0 +1,10 @@
+Write a program to create a function that takes two sorted linked lists in ascending order as input and returns a single sorted linked list in ascending order. 
+Input:
+
+      list1= 1->2->3
+
+      list2=4->5->6
+
+
+
+Output :  sortedlist = 1->2->3->4->5->6
