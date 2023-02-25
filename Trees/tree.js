@@ -96,3 +96,4 @@ let n = 4;
 console.log(t.inorderArr[t.inorderArr.length-n]);
 
 // console.log(t.display());
+
